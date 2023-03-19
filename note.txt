@@ -1,0 +1,10 @@
+Sebagai latihan pertama, kami akan mengambil data pokemon yang disebut "Pikachu" dan menampilkannya di halaman web Kamu. Kami akan menggunakan endpoint PokeApi yang berbeda untuk kali ini.
+Endpoint
+https://pokeapi.co/api/v2/pokemon/pikachu 
+(atau https://pokeapi.co/api/v2/pokemon/25)
+
+Data yang diperlukan
+Number
+Name
+Image
+Type
